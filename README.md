@@ -1,4 +1,5 @@
 
+
 # prova_rec_parte2
 
 A tividade se refere à segunda parte da prova de recuperação do módulo 10 de de Engenharia da Computação. Ela é composta por um sistema em Docker Compose contendo um backend em FastAPI, com uma API de posts de blog armazenada em um arquivo e um gateway em nginx para redirecionamento através do localhost na porta 80, quando a rota inicia com o prefixo "/blog" para ser possível a postagem dos usuário cadastrar reviwes sobre filmes e séries de TV. 
