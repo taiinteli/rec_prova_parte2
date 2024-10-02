@@ -6,3 +6,4 @@ class BlogPostRequest(pydantic.BaseModel):
     review: str
     serie_filme: str
     estrelas: int
+
