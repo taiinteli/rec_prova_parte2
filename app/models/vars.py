@@ -2,9 +2,7 @@ import pydantic
 
 class BlogPostRequest(pydantic.BaseModel):
     id: int
-    title: str
-    content: str
-    
-class BlogPostUpdateRequest(pydantic.BaseModel):
-    title: str
-    content: str
+    usuario: str
+    review: str
+    serie_filme: str
+    estrelas: int
