@@ -2,6 +2,7 @@ from fastapi import APIRouter, HTTPException, status
 from models.blog_posts import BlogPost
 from app.models.vars import BlogPostRequest, BlogPostUpdateRequest
 
+
 from typing import List
 
 import logging
