@@ -1,4 +1,3 @@
-    
 class BlogPost:
     def __init__(id, self, usuario, review, serie_filme, estrelas):
         self.id = '1'
